@@ -1,0 +1,17 @@
+pwd: print working directory
+whoami: nombre del usuario de sesión
+touch: crear archivos
+mkdir: crear carpetas
+cp: copiar
+mv: mover
+ls: listar contenido de una carpeta
+ls -l: lista contenido con detalles
+ls -a: lista todos los archivos incluyendo archivos ocultos
+clear: limpiar la terminal
+cd: para cambiarnos de carpetas
+  . desde la ubicación donde estoy
+  .. desde la ubicación donde estoy sube un nivel
+  ~ es un comodín que nos ubica en la carpeta del home del usuario de la sesión actual
+  / es un comodín que nos ubica en la carpeta raíz (root) del equipo de computo
+rm: elmina archivos
+rm -r: elimina carpetas y su contenido

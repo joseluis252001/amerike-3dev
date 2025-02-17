@@ -1,3 +1,5 @@
+Apuntes de los comandos vistos en clase
+
 pwd: print working directory
 whoami: nombre del usuario de sesión
 touch: crear archivos

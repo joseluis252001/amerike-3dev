@@ -1,0 +1,17 @@
+*   f4086fa Resolviendo conflictos de la fusión con la rama js
+|\  
+| * 59138a5 Enlazando script de programación al documento HTML
+| * d1a95e7 Creando Script de Programación
+* | 78b320a Enlazando los estilos al documento HTML
+* |   c8b8fd9 Fusionando con la rama 'css'
+|\ \  
+| |/  
+|/|   
+| * fb9198e Creando Hoja de Estilos
+* | 8f2d40d Creando archivo HTML
+|/  
+* 3e497de Configurando el gitignore
+* baa60e3 Creando LICENSE del repositorio
+* 54d4a14 Agregando README al repositorio
+* bf7ea9f Agregando otros archivos
+* 95d3439 Primer cambio

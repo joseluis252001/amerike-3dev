@@ -14,3 +14,5 @@ Lista de documentos:
 A continuación vamos a ver lo que son las etiquetas
 
 Vamos a crear nuestra primer etiqueta
+
+Vamos a crear una segunda etiqueta

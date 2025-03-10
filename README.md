@@ -6,3 +6,4 @@ Lista de documentos:
 
 - [Apuntes de Comandos de Terminal](./comandos.txt).
 - [Apuntes de _Markdown_](./markdown.md)
+- [Teoría _Git_](https://jonmircha.com/git)

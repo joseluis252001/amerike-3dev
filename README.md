@@ -10,4 +10,7 @@ Lista de documentos:
 - [Teoría _Terminal_](https://jonmircha.com/terminal)
 - [Teoría _Markdown_](https://jonmircha.com/markdown)
 - [Teoría _Git_](https://jonmircha.com/git)
-- [Enlace del Repositorio de la Materia](https://github.com/jonmircha/amerike-3dev)
+
+A continuación vamos a ver lo que son las etiquetas
+
+Vamos a crear nuestra primer etiqueta

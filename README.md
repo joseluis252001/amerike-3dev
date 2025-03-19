@@ -18,3 +18,7 @@ Vamos a crear nuestra primer etiqueta
 Vamos a crear una segunda etiqueta
 
 Vamos a crear un tercer cambio
+
+Pasos para activar el servicio de _GitHub Pages_ en tu repositorio:
+
+![Activar GitHub Pages](https://raw.githubusercontent.com/jonmircha/starter-project-eleventy-github-pages/main/code/public/img/configurar-github-pages.png)

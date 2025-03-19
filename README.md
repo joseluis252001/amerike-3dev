@@ -21,4 +21,6 @@ Vamos a crear un tercer cambio
 
 Pasos para activar el servicio de _GitHub Pages_ en tu repositorio:
 
+[_URL_ de este repositorio en _GitHub Pages_](http://jonmircha.github.io/amerike-3dev/)
+
 ![Activar GitHub Pages](https://raw.githubusercontent.com/jonmircha/starter-project-eleventy-github-pages/main/code/public/img/configurar-github-pages.png)

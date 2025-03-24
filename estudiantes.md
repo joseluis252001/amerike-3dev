@@ -13,3 +13,14 @@ Hola soy tu amigo y docente digital... Jonathan Mircha
 ---
 
 ## Estudiantes
+
+  ### Jose Luis Quijas Olmedo
+ 
+   Un estudiante de Amerike que esta especializadoce en C#, para tener amplia experiencia en la creación de proyectos interactivos y soluciones integradas de hardware y software.
+ 
+   - [cdmx2383@amerike.edu.mx](cdmx2383@amerike.edu.mx) 
+   - [joseluis_GitHub_](https://github.com/tu-usuario) 
+ 
+   ![Jose Luis](./img/tu-foto.jpg) 
+ 
+   ---
